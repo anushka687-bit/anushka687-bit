@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Anushka  
 
-<!--
-**anushka687-bit/anushka687-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student  
+💻 Learning Python, C, and problem-solving  
+🚀 Interested in AI, OpenCV, and real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Programming: Python, C  
+- Basics: Data Structures, Algorithms  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+
+### 🔹 C Programming Mini Projects
+- Pointer-based programs
+- Logic building & debugging practice
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anushka687-bit&show_icons=true)
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: linkedin.com/in/anushka-gupta-231883373
+
+⭐ Always learning and improving!
